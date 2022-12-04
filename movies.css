@@ -1,0 +1,17 @@
+.name {
+    font-family: arial;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-family: Arial;
+    margin: 0px;
+}
+
+p {
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+    font-family: Arial;
+    font-size: 20px;
+}
